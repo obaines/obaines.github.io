@@ -17,24 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January/February 2019: Consultant for Namibian National Leopard Survey 
+  * Created a methodology to scale up local camera trap density estimates nationwide, using SPACECAP and Machine Learning
+  * Produced a national density estimate and density rasters to inform conservation policy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in Python, R, and experience in JavaScript
+* Experienced in Geospatial analysis
+  * Machine Learning (primarily tree-based learners)
+  * Geospatial software including QGIS, ArcMap and Google Earth Engine
+  * Manipulating, processing and storing large (global) datasets
 
 Publications
 ======
