@@ -14,6 +14,6 @@ Most recently, I completed a 2-month fieldwork season in Disko Island, Greenland
 
 <p float="left">
   <img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" width="300" height="300" />
-  <img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" width="300" height="300" />
-  <img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" width="300" height="300" />
+  <img src="https://obaines.github.io/images/Disko/20190709_152310.jpg" width="300" height="300" />
+  <img src="https://obaines.github.io/images/Disko/20190629_195959.jpg" width="300" height="300" />
 </p>
