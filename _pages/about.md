@@ -12,6 +12,6 @@ My PhD project, entitled 'Changes in arctic and alpine plant communities: the ro
 
 Most recently, I completed a 2-month fieldwork season in Disko Island, Greenland as part of the Vegetation Dynamics team (based at the University of Aarhus). See photos below!
 
-<img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" align="left" width="300" height="300" />
-<img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" align="center" width="300" height="300" />
-<img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" align="right" width="300" height="300" />
+<img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" align="left" width="250" height="250" />
+<img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" align="center" width="250" height="250" />
+<img src="https://obaines.github.io/images/Disko/20190701_144904.jpg" align="right" width="250" height="250" />
