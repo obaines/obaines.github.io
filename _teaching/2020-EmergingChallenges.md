@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-EmergingChallenges.md
 venue: "University of Nottingham, School of Geography"
-date: 2020-10-01
+date: 2019-10-01
 location: "Nottingham, United Kingdom"
 ---
 
