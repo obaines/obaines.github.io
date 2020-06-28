@@ -14,4 +14,4 @@ My PhD project, entitled 'Changes in arctic and alpine plant communities: the ro
 
 <p>
   <img src="20190701_144904.jpg" width="200" height="200" />
-<p>
+</p>
