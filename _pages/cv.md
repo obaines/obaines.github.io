@@ -47,4 +47,4 @@ Grants/awards
 * Earth System Data Lab Early Adopter Grant (€3000) to develop a project using the Earth System Data Lab data cube system - March 2019
 * NERC ENVISION DTP 3.5 year stipend + research costs (~£50000) - October 2018
 * Recipient of the RSPsoc President's Cup for best oral presentation at RSPsoc annual conference - September 2018
-* Panton Trust Conservation Grant (£500) to support undergraduate fieldwork porject - May 2016
+* Panton Trust Conservation Grant (£500) to support undergraduate fieldwork project - May 2016
