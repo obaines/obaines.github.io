@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BA Geography, University of Cambridge, 2017
-* MSc Remote Sensing, University College London, 2018
 * PhD Geography, University of Nottingham, 2022 (expected)
+* MSc Remote Sensing, University College London, 2018
+* BA Geography, University of Cambridge, 2017
 
 Work experience
 ======
@@ -23,7 +23,7 @@ Work experience
   
 Skills
 ======
-* Proficient in Python, R, and experience in JavaScript
+* Proficient in Python and R
 * Experienced in Geospatial analysis
   * Machine Learning (primarily tree-based learners)
   * Geospatial software including QGIS, ArcMap and Google Earth Engine
@@ -47,4 +47,4 @@ Grants/awards
 * Earth System Data Lab Early Adopter Grant (€3000) to develop a project using the Earth System Data Lab data cube system - March 2019
 * NERC ENVISION DTP 3.5 year stipend + research costs (~£50000) - October 2018
 * Recipient of the RSPsoc President's Cup for best oral presentation at RSPsoc annual conference - September 2018
-* Panton Trust Conservation Grant (£500) to support undergraduate fieldwork project - May 2016
+* Panton Trust Conservation Grant (£500) to support undergraduate research project - May 2016
