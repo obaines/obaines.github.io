@@ -1,1 +1,0 @@
-## Blog entry 1 - The importance of spatial data
