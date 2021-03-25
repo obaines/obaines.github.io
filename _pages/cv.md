@@ -20,15 +20,15 @@ Work experience
 * February - April 2021: PhD Internship at UNEP-WCMC
   * Author on the UN Decade on Ecosystem Restoration Launch Report
   * Produced a briefing document on the benefits of restoration from degraded land
-  * Spatial analysis: quantifying benefits of the Great Green Wall, and producing national deforestation estimates
+  * Spatial analysis: quantifying benefits of the Great Green Wall, and producing national deforestation estimates (in Python)
 
 * March 2021: Research Assistant, Department of Economics, University of Nottingham
   * Responsible for sourcing, analysing and visualising variables influencing forest growth in Ethiopia
-  * Produced fully reproducible GIS workflows in Python, including using Google Earth Engine
+  * Scripted fully reproducible GIS workflows, including using Google Earth Engine (in Python)
 
 * January - February 2019: Consultant for Namibian National Leopard Survey 
-  * Created a methodology to scale up local camera trap density estimates nationwide, using SPACECAP and Machine Learning
-  * Produced a national density estimate and density rasters to inform conservation policy
+  * Created a methodology to scale up local camera trap density estimates nationwide, using SPACECAP and machine learning (in R)
+  * Produced a national density estimate and spatially-explicit density estimates to inform conservation policy
   
 Skills
 ======
