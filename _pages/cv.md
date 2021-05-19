@@ -15,7 +15,7 @@ Education
 * MSc Remote Sensing, University College London, 2018
 * BA Geography, University of Cambridge, 2017
 
-Work experience
+Research experience
 ======
 * May 2021 - July 2021: Research Assistant, School of Geography, University of Nottingham
 
