@@ -17,14 +17,17 @@ Education
 
 Work experience
 ======
-* February - April 2021: PhD Internship at UNEP-WCMC
-  * Author on the UN Decade on Ecosystem Restoration Launch Report
-  * Produced a briefing document on the benefits of restoration from degraded land
-  * Spatial analysis: quantifying benefits of the Great Green Wall, and producing national deforestation estimates (in Python)
+* May 2021 - July 2021: Research Assistant, School of Geography, University of Nottingham
 
-* March 2021: Research Assistant, Department of Economics, University of Nottingham
+* February - April 2021: Internship at UNEP-WCMC
+  * Author on the UN Decade on Ecosystem Restoration Launch Report
+  * Drafted a briefing document on the benefits of restoring degraded land prior to conversion
+  * Created a method to provide rapid estimates of deforestation for Argentina, complementing global-scale analyses (using Python + GEE)
+  * Utilised machine learning and MODIS imagery to estimate potential carbon storage across the Great Green Wall in the Sahel (using Python + GEE)
+
+* March 2021: Research Assistant, School of Economics, University of Nottingham
   * Responsible for sourcing, analysing and visualising variables influencing forest growth in Ethiopia
-  * Scripted fully reproducible GIS workflows, including using Google Earth Engine (in Python)
+  * Scripted fully reproducible GIS workflows (using Python + GEE)
 
 * January - February 2019: Consultant for Namibian National Leopard Survey 
   * Created a methodology to scale up local camera trap density estimates nationwide, using SPACECAP and machine learning (in R)
@@ -33,8 +36,8 @@ Work experience
 Skills
 ======
 * Proficient in Python and R
-* Experienced in Geospatial analysis
-  * Machine Learning (primarily tree-based learners)
+* Experienced in geospatial analysis
+  * Machine learning (primarily tree-based learners)
   * Geospatial software including QGIS, ArcMap and Google Earth Engine
   * Manipulating, processing and storing large (global) datasets
 
