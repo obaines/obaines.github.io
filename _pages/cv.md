@@ -18,6 +18,7 @@ Education
 Research experience
 ======
 * May 2021 - July 2021: Research Assistant, School of Geography, University of Nottingham
+  * Analysed mortalitity across censuses of tropical tree species (using R)
 
 * February - April 2021: Internship at UNEP-WCMC
   * Author on the UN Decade on Ecosystem Restoration Launch Report
