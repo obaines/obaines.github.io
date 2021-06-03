@@ -31,7 +31,7 @@ Research experience
   * Responsible for sourcing, analysing and visualising variables influencing forest growth in Ethiopia
   * Scripted fully reproducible GIS workflows (using Python + GEE)
 
-* January - February 2019: Consultant for Namibian National Leopard Survey 
+* January - February 2019: Consultant for [Namibian National Leopard Survey](https://n-c-e.org/sites/default/files/2019-07/National%20Leopard%20Census%20Project%20-%20Final%20Report.pdf) 
   * Created a methodology to scale up local camera trap density estimates nationwide, using SPACECAP and machine learning (in R)
   * Produced a national density estimate and spatially-explicit density estimates to inform conservation policy
   
