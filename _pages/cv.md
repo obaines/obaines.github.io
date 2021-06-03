@@ -66,4 +66,4 @@ Grants/awards
 Media/outreach
 ======
 * [Using a data cube to assess changes in the Earth system](http://www.esa.int/Applications/Observing_the_Earth/Using_a_data_cube_to_assess_changes_in_the_Earth_system) (September 2019) *European Space Agency* (comments and imagery)
-* [A London-wide Estimate of Urban Forest Structure] (http://www.rspsoc.org.uk/images/SENSED/SENSED_201907_July2019_WEB.pdf) (July 2019) *SENSED Magazine* 73
+* [A London-wide Estimate of Urban Forest Structure](http://www.rspsoc.org.uk/images/SENSED/SENSED_201907_July2019_WEB.pdf) (July 2019) *SENSED Magazine* 73
