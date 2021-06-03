@@ -62,3 +62,8 @@ Grants/awards
 * NERC ENVISION DTP 3.5 year stipend + research costs (~£50000) - October 2018
 * Recipient of the RSPsoc President's Cup for best oral presentation at RSPsoc annual conference - September 2018
 * Panton Trust Conservation Grant (£500) to support undergraduate research project - May 2016
+
+Media/outreach
+======
+* [Using a data cube to assess changes in the Earth system](http://www.esa.int/Applications/Observing_the_Earth/Using_a_data_cube_to_assess_changes_in_the_Earth_system) (September 2019) *European Space Agency* (comments and imagery)
+* [A London-wide Estimate of Urban Forest Structure] (http://www.rspsoc.org.uk/images/SENSED/SENSED_201907_July2019_WEB.pdf) (July 2019) *SENSED Magazine* 73
