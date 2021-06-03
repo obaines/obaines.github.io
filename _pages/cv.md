@@ -18,10 +18,11 @@ Education
 Research experience
 ======
 * May 2021 - July 2021: Research Assistant, School of Geography, University of Nottingham
-  * Analysed mortalitity across censuses of tropical tree species (using R)
+  * Analysed mortality and turnover across censuses of tropical tree species (using R)
+  * Collated a range of environmental data including climate, soils and topography
 
 * February - April 2021: Internship at UNEP-WCMC
-  * Author on the UN Decade on Ecosystem Restoration Launch Report
+  * Contributing author on the [UN Decade on Ecosystem Restoration Launch Report](https://www.unep.org/resources/ecosystem-restoration-people-nature-climate)
   * Drafted a briefing document on the benefits of restoring degraded land prior to conversion
   * Created a method to provide rapid estimates of deforestation for Argentina, complementing global-scale analyses (using Python + GEE)
   * Utilised machine learning and MODIS imagery to estimate potential carbon storage across the Great Green Wall in the Sahel (using Python + GEE)
