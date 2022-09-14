@@ -2,7 +2,7 @@
 title: "Emerging Challenges in Biogeography"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-EmergingChallenges.md
+permalink: /teaching/2020-EmergingChallenges
 venue: "University of Nottingham, School of Geography"
 date: 2019-10-01
 location: "Nottingham, United Kingdom"
